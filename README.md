@@ -15,6 +15,6 @@ mv hotkey ~/.vim
 type "PlugInstall" in normal mode
 
 # For using c++ :
-CocInstall coc-clangd
+CocInstall coc-clangd <br>
 CocCommand clang.install
 
