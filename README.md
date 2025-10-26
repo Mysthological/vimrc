@@ -18,8 +18,10 @@ mv hotkey ~/.vim
 # Install all plugins in Vim
 `type "PlugInstall" in normal mode`
 
-# For using c++ :
+# For installing other extension : search CocInstall extension_name 
+# For example:
 
+# For using c++ :
 `CocInstall coc-clangd` \
 `CocCommand clang.install`
 
